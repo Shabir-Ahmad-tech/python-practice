@@ -15,3 +15,6 @@ Each file is a small task or script I’ve written to improve my coding skills.
 
 ---
 Feel free to explore the code — it’s just me learning and experimenting.
+
+## Author
+** Shabir Ahmad **
